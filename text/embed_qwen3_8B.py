@@ -60,7 +60,7 @@ dataset_info = {
     "trec_covid_p2p": (
         "Uri-ka/ClusTREC-Covid",
         Metadata(
-            "trec_covid",
+            "trec_covid_p2p",
             "test",
             "sentences",
             "labels",
